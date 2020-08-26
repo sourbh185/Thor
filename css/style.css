@@ -1,0 +1,84 @@
+body{ max-width:1000px;
+	margin: auto;
+	}
+
+.left{
+	border:none;
+	padding:0px; 
+	float:left;
+}
+.right{
+	border:none;
+	padding:0px;
+	float:right;
+}
+#image{
+	height:170px;
+	width:250px;
+	float:left;
+	margin:15px;
+}
+#identity{
+	overflow:auto;
+	float:left;
+}
+#background-image{
+	background-image:url("G:/webd/pro_jects/Thor/images/background.jpg");
+	height:400px;
+	padding-top: 50px;
+	color:#fff;
+	margin top:25px;}
+
+#box{
+	background-color:rgba(0,0,0,0.5);
+	max-width: 250px;
+    padding:30px 20px ;
+    margin-top:100px;}
+
+#Awards{
+	margin-top: 400px;
+}
+table{
+	border:1px solid black;
+	border-collapse: collapse;
+	width:100%;
+	}
+th,td{
+	border:1px solid #a4a4a4;
+	padding:20px;
+	height:5px;
+}
+th{
+	text-align:left;
+	background-color:green;
+}
+
+.thumbnail{
+display: inline-block;
+padding: 4px;
+margin-bottom: 20px;
+background-color: #fff;
+border: 1px solid #a4a4a4;
+text-align: center;
+color: #666;
+margin: 10px;
+}
+		
+input{
+	padding:14px 70px ;
+	margin-bottom:30px;
+	font-size:15px; 
+}
+#subscribe {
+border: none;
+background-color: #26211f;
+color: white;
+font-size: 16px;
+margin: 4px -4px;
+padding: 16px 40px;
+}
+#footer{
+	background-color: rgb(0,0,0,0.5);
+	padding:2px;
+	margin:14px;
+}
